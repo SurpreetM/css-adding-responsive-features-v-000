@@ -33,7 +33,7 @@
   }
 }
 
-@@media only screen (max-width:750px){
+@media only screen (max-width:750px){
   #navnbar nav a{
     font-size: 0.9em;
   }
